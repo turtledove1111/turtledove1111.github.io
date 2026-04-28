@@ -12,5 +12,8 @@
 ## 📎 完整报告
 [点击下载 PDF 报告](report.pdf)
 
+
+[点击下载Project完整PDF 报告](full_report.pdf)
+
 ---
 *发布于 2026年4月*
